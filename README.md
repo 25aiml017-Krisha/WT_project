@@ -1,3 +1,3 @@
 # WT_project
-<br>My first project</br>
-HTML project
+<br>My first WT project</br>
+HTML 
